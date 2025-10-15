@@ -1,8 +1,9 @@
 # Hello, I'm Vladimir 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/vladimirdjovanov)
-[![X](https://img.shields.io/badge/GitHub-%23121011?style=social&logo=github)](https://x.com/VDjovanov)
-[![IG](https://img.shields.io/badge/Website-%23000000?style=social&logo=website)](https://www.instagram.com/v_djovanov)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/v_djovanov)
+[![X](https://img.shields.io/badge/X-%231DA1F2?style=social&logo=x)](https://x.com/VDjovanov)
+
 
 
 ## 🎓 Education
