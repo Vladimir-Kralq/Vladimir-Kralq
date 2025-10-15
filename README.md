@@ -30,9 +30,13 @@ Constantly working on improving my skills by taking courses and building project
 ### 🌟 Looking to Grow
 Excited to apply my skills in **web development** and **design**, and to continue learning from real-world challenges. Currently seeking opportunities to contribute to **open-source projects** or gain more practical experience.
 
-## 📫 How to reach me
-- [Email](djovanovdjovanov@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/vladimirdjovanov)
+## ✉️ Contact
+You can connect with me anytime through my email: [djovanovdjovanov@gmail.com](mailto:djovanovdjovanov@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vladimirdjovanov)
+
+
+ ## 🏋️‍♂️ Hobbies
+- **Gym**, **Football**, **Chess**, **Reading**, **Voluntary work**, and **Learning new skills**.
 
 
 ## 🔥 Fun fact
