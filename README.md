@@ -1,8 +1,9 @@
 # Hello, I'm Vladimir 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vladimir+%F0%9F%91%8B;JavaScript+Developer+in+the+Making;Frontend+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1200&color=00D1FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vladimir+%F0%9F%91%8B;Software+Technologies+%26+Design+Student;Aspiring+JavaScript+Developer;Passionate+about+Web+Development;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/vladimirdjovanov)
