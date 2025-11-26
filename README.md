@@ -1,7 +1,7 @@
 # Hello, I'm Vladimir 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2500&pause=1200&color=00D1FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vladimir+%F0%9F%91%8B;Software+Technologies+%26+Design+Student;Aspiring+JavaScript+Developer;Passionate+about+Web+Development;Always+Learning+and+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=1600&pause=700&color=00D1FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Vladimir+%F0%9F%91%8B;Software+Technologies+%26+Design+Student;Aspiring+JavaScript+Developer;Passionate+About+Web+Development;Always+Learning+and+Improving" alt="Typing SVG" />
 </p>
 
 
