@@ -1,5 +1,10 @@
 # Hello, I'm Vladimir 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F2EA&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Vladimir+%F0%9F%91%8B;JavaScript+Developer+in+the+Making;Frontend+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/vladimirdjovanov)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=social&logo=instagram)](https://www.instagram.com/v_djovanov)
 [![X](https://img.shields.io/badge/X-%231DA1F2?style=social&logo=x)](https://x.com/VDjovanov)
