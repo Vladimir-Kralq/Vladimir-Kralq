@@ -33,6 +33,7 @@ I’ve worked on various personal projects using **JavaScript**, such as:
 - 🌐 **Responsive websites** and **landing pages**, built with HTML & CSS  
 - ⚙️ **Interactive web applications** using JavaScript  
 - 🎨 Small UI/UX experiments and layouts  
+- ⚛️ **React projects**: Developing interactive web applications and learning React through practical projects
 
 You can explore all of them in my repositories.
 
@@ -49,25 +50,4 @@ I’m actively improving my skills by:
 ---
 
 ## 🚀 Looking to Grow
-I’m excited to gain **real-world experience**, collaborate with other developers, and contribute to projects where I can learn and grow.
-
----
-
-## ✉️ Contact Me
-📩 **Email:** [djovanovdjovanov@gmail.com](mailto:djovanovdjovanov@gmail.com)  
-🔗 **LinkedIn:** https://www.linkedin.com/in/vladimirdjovanov
-
----
-
-## 🏋️‍♂️ Hobbies
-- Gym  
-- Football  
-- Chess  
-- Reading  
-- Volunteering  
-- Learning new skills  
-
----
-
-## 🔥 Fun Fact
-I love continuous learning and enjoy taking on new challenges that help me grow as a developer.
+I’m excited to gain **r**
