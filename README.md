@@ -26,7 +26,7 @@
 ### 🎨 Design & Creative
 * **UI Design** | SoftUni Creative — [Verify Certificate](https://creative.softuni.bg/Certificates/Details/55651/d9ccfd85)
 * **UX Design** | SoftUni Creative — [Verify Certificate](https://creative.softuni.bg/Certificates/Details/54243/6e2bb2ac)
-* **Design Basics** | SoftUni Creative — [Verify Certificate](https://creative.softuni.bg/Certificates/Details/51553/44e59e86) (**Grade: 5.86 / 6.00**)
+* **Design Basics** | SoftUni Creative — [Verify Certificate](https://creative.softuni.bg/Certificates/Details/51553/44e59e86) 
 * **InDesign** | SoftUni Creative — [Verify Certificate](https://creative.softuni.bg/Certificates/Details/53808/e3e734a9)
 
 ---
