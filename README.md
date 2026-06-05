@@ -65,5 +65,4 @@ I’m actively improving my skills by:
 ---
 
 ## 🚀 Looking to Grow
-I’m excited to gain **r**
- дай целия оправен
+I’m eager to expand my expertise in front-end development and modern web technologies. My goal is to build impactful, user-friendly web applications while continuously learning and refining my skills. I’m passionate about React development, UI/UX design, and clean, maintainable code. I strive to collaborate with talented teams, take on challenging projects, and contribute to innovative solutions that make a difference
